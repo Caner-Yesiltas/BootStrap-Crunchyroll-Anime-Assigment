@@ -1,3 +1,7 @@
+:root {
+  --primary-color: ;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -14,4 +18,59 @@
   color: #ffbd07 !important;
   transition: color 0.3s ease;
   transform: scale(1.1);
+}
+
+
+
+.carousel-item {
+  position: relative;
+}
+
+.carousel-inner img {
+  height: 90vh;
+  object-fit: cover;
+}
+
+.card img {
+  height: 30vh;
+  object-fit: cover;
+}
+
+
+.carousel-item .hero {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+}
+
+.carousel-item .hero2 {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  transform: translateY(-50%);
+  z-index: 10;
+}
+
+.carousel-item .hero3 {
+  position: absolute;
+  top: 20%;
+  left: 80%;
+  transform: translateY(-50%);
+  z-index: 10;
+}
+
+.carousel-item .hero4 {
+  position: absolute;
+
+  
+top: 55%;
+ left: 48%;
+  z-index: 10;
+ 
+   
+  white-space: nowrap; 
+
+ 
 }
