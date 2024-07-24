@@ -3,3 +3,15 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.navbar ul li a:hover {
+  color: #ff2407 !important;
+  transition: color 0.3s ease;
+  transform: scale(1.1);
+}
+
+.navbar a:hover {
+  color: #ffbd07 !important;
+  transition: color 0.3s ease;
+  transform: scale(1.1);
+}
