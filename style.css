@@ -9,7 +9,12 @@
 }
 
 body {
-  background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+  background-image: linear-gradient(
+    to top,
+    #f3e7e9 0%,
+    #e3eeff 99%,
+    #e3eeff 100%
+  );
 }
 .navbar ul li a:hover {
   color: #ff2407 !important;
