@@ -107,7 +107,7 @@ span:hover {
 }
 
 .container {
-  box-shadow: 0 0 15px 5px rgba(230, 58, 6, 0.5);
+  background-color: transparent;
 }
 .text-container:hover {
   opacity: 0.7;
@@ -220,7 +220,8 @@ span:hover {
 }
 
 .container {
-  background-image: linear-gradient(to right, #434343 0%, black 100%);
+  background-color: transparent;
+  border: none;
 }
 
 @keyframes slideIn {
