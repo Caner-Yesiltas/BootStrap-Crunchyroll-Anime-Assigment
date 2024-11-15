@@ -1,21 +1,79 @@
-https://caner-yesiltas.github.io/BootStrap-Crunchyroll-Anime-Assigment/
+# Crunchyroll Anime Clone 🎌
 
+<div align="center">
+ <h2>
+   👉 <a href="https://boot-strap-crunchyroll-anime-assigment.vercel.app/">Live Demo</a> 👈
+ </h2>
+</div>
 
-## Project Title: Bootstrap Products Page
+<div align="center">
+ <img src="assets/demo.gif" alt="Crunchyroll Clone Demo" width="800"/>
+</div>
 
-### Description:
+## 📌 About The Project
 
-The Bootstrap Products Page project is a demonstration of an attractive and user-friendly web design for showcasing course links. This project focuses on enhancing Bootstrap skills, including **row**, **container**, **grid system** etc. to create a responsive bootstrap products page interface.
+A responsive Crunchyroll clone built with Bootstrap and CSS animations. Features a modern interface showcasing popular anime content with interactive elements and dynamic animations.
 
+### ✨ Key Features
 
-### Expected Outcome:
+- 🎨 Interactive carousel with anime showcases
+- ✨ Custom CSS animations on cards
+- 🔄 Rotating and zoom effects on hover
+- 📱 Fully responsive design
+- 🎯 Navigation with smooth scroll
+- 🌈 Dynamic gradient backgrounds
+- 🔍 Search functionality
+- 📺 Anime card galleries
 
-![Bootstrap Products Page](./bootstrap.gif)
+### 🛠️ Built With
 
-### Demo
+- [Bootstrap 5](https://getbootstrap.com/)
+- [Font Awesome](https://fontawesome.com/)
+- Custom CSS Animations
+- HTML5
 
-[Bootstrap Products Page](https://anthonyins.github.io/bootstrap-assignment/)
+## 🎯 Component Details
 
-### Note
+### Navbar
+- Responsive navigation
+- Dropdown membership options
+- Search functionality
+- Brand styling
 
-- Please remember to customize the images and texts according to your preferences.
+### Carousel
+- Featured anime showcase
+- Custom positioning
+- Interactive buttons
+- Dynamic text overlays
+
+### Anime Cards
+- Custom hover animations
+- Responsive grid layout
+- Dynamic content display
+- Transform effects
+
+### Footer
+- Social media links
+- Quick navigation
+- Copyright information
+- Scroll to top feature
+
+## 📱 Responsive Design
+
+- Mobile-first approach
+- Fluid layouts
+- Responsive images
+- Adaptive animations
+- Cross-device compatibility
+
+## 📫 Contact
+
+Caner Yesiltas - caneryesiltas1@gmail.com
+
+Project Link: [https://boot-strap-crunchyroll-anime-assigment.vercel.app/](https://boot-strap-crunchyroll-anime-assigment.vercel.app/)
+
+---
+
+<div align="center">
+ Made with ❤️ by Caner Yesiltas
+</div>
