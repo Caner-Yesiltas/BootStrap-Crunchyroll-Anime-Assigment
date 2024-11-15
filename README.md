@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
- <img src="assets/demo.gif" alt="Crunchyroll Clone Demo" width="800"/>
+ <img src="/Crunchyroll.gif" alt="Crunchyroll Clone Demo" width="800"/>
 </div>
 
 ## 📌 About The Project
